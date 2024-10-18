@@ -1,4 +1,4 @@
-# Elevator Wipeout - Sidecars and PBRs - Fall 2024
+# Hallways of Horror
 
 You trying to get out of a haunted while also avoiding ghosts that's trying to pocess. Your only weapon is your flashlight in which it makes the ghosts disappear. The more you progress through the levels, the more ghosts will appear and faster they get. 
 
