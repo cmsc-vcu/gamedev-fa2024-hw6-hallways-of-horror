@@ -5,7 +5,7 @@ You trying to get out of a haunted while also avoiding ghosts that's trying to p
 ## Authors
 
 - Daniel Nguyen (nguyend35@vcu.edu)
-- Carter Dubois (jebennett@vcu.edu)
+- Carter Dubois 
 
 ## Game Description
 
@@ -16,7 +16,7 @@ This game has a hallway loop animation which gives the immersion of you, the pla
 - Game URL: < https://play.unity.com/en/games/c591504d-590c-4564-8eea-de45d7cd321d/webgl-builds >
 - GITHUB URL: < https://github.com/cmsc-vcu/gamedev-fa2024-hw6-hallways-of-horror >
 - Gameplay Video URL: < https://drive.google.com/drive/folders/1-TErFdhb6tKrnLrAIpdfzxaJYmUBqc04?usp=sharing >
-- Google Doc writeup: < ... >
+- Google Doc writeup: < https://docs.google.com/document/d/1yH_VEBzpf1WN344PjN4nPTxJsPA0QBViCRD2ld4MG3k/edit?tab=t.0 >
 
 ## Files in the repository
 
