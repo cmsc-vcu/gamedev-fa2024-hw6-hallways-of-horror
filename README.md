@@ -1,23 +1,21 @@
 # Elevator Wipeout - Sidecars and PBRs - Fall 2024
 
-Elevator Wipeout is a save-the-world game where the player does all they can to prevent bad guys from destroying a space elevator.  If the bad guys win, the earth
-is destroyed in a spectacular, slow-motion extravaganza.
+You trying to get out of a haunted while also avoiding ghosts that's trying to pocess. Your only weapon is your flashlight in which it makes the ghosts disappear. The more you progress through the levels, the more ghosts will appear and faster they get. 
 
 ## Authors
 
-- John Leonard (jdleonard@vcu.edu)
-- Jason Bennett (jebennett@vcu.edu)
+- Daniel Nguyen (nguyend35@vcu.edu)
+- Carter Dubois (jebennett@vcu.edu)
 
 ## Game Description
 
-Provide more details of the game.  Discuss any unique game play features.  Why is
-this game different from others?  What is the goal for playing?
+This game has a hallway loop animation which gives the immersion of you, the player, going through the hallway. This player also has walking/flashlight animation. The win/lose screen will appear depending on the conditions. If you manage to click on all of the ghosts in the level, you will be granted a win screen that allows you to go to the next level/restart (this is subjected to changed). The lose screen will appear if even one ghost touches the player. 
 
 ## Important Links
 
-- Game URL: < ... >
-- GITHUB URL: < ... >
-- Gameplay Video URL: < ... >
+- Game URL: < https://play.unity.com/en/games/c591504d-590c-4564-8eea-de45d7cd321d/webgl-builds >
+- GITHUB URL: < https://github.com/cmsc-vcu/gamedev-fa2024-hw6-hallways-of-horror >
+- Gameplay Video URL: < https://drive.google.com/drive/folders/1-TErFdhb6tKrnLrAIpdfzxaJYmUBqc04?usp=sharing >
 - Google Doc writeup: < ... >
 
 ## Files in the repository
@@ -29,22 +27,4 @@ this game different from others?  What is the goal for playing?
 ./docs/ - Don't edit files in this folder directly.  Edit the source documents in the *./website* folder, then use `quarto` to render the documents to HTML and store them in the *./docs* folder.
 
 
-## How to modify this README.md
-
-Certainly you want to customize the info above this section to make it your own. But, please don't stop there.
-
-To learn more about writing good README.md files, see:
-
-<https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/>
-
-This is a scaffold project. We’ll be providing scaffolds throughout the
-semester to get you working faster, and to make grading much easier for
-the TA team.
-
-This repository supports Homework 6. Here are the homework specs and
-tasks:
-
-<https://virginiacommonwealth.instructure.com/courses/105808/assignments/952983>
-
-Good luck!
 

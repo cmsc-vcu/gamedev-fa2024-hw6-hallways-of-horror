@@ -2,9 +2,9 @@ project:
   output-dir: ../docs
 
 author:
-  - name: John Leonard
-    email: jdleonard@vcu.edu
-  - name: Jason Bennett
+  - name: Daniel Nguyen
+    email: nguyend35@vcu.edu
+  - name: Carter DuBois
     email: jebennett@vcu.edu
 
 format:
