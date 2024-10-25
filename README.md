@@ -5,7 +5,7 @@ You trying to get out of a haunted while also avoiding ghosts that's trying to p
 ## Authors
 
 - Daniel Nguyen (nguyend35@vcu.edu)
-- Carter Dubois 
+- Carter Dubois (duboisch@vcu.edu)
 
 ## Game Description
 
